@@ -1,4 +1,4 @@
-//Change done in feature1 branch
+//Change done in feature branch
 import React, {useEffect, useState} from 'react'
 
 function AutoCount() {
